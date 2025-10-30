@@ -25,7 +25,6 @@ Simulates job handling and task allocation for multiple robots. Jobs are created
 
 ## Setup
 - Install Visual Studio (.NET Desktop)
-- Add `System.Data.SQLite.Core`
 - Run the SQL file in the `database/` folder to create required tables
 - Place `Robots.db` in the same folder as the executable
 - `Jobs.xml` is created automatically if missing
