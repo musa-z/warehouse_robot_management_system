@@ -19,7 +19,7 @@ Simulates job handling and task allocation for multiple robots. Jobs are created
 ## Code
 - Written in C# (.NET Windows Forms)
 - Source files located in the `code/` folder
-- Database file found in `database` folder
+- Database file found in `database/` folder
 
 ---
 
